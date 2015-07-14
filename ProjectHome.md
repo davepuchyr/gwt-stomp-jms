@@ -1,0 +1,1 @@
+A simple wrapper on top of the excelent Stomp JMS websocket library.
